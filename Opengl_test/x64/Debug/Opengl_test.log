@@ -1,0 +1,7 @@
+﻿  3d_transform.cpp
+C:\comg\Opengl_proj2\3d_transform.cpp(28,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\comg\Opengl_proj2\3d_transform.cpp(29,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\comg\Opengl_proj2\3d_transform.cpp(109,28): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\comg\Opengl_proj2\3d_transform.cpp(109,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\comg\Opengl_proj2\3d_transform.cpp(109,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Opengl_test.vcxproj -> C:\comg\Opengl_proj2\x64\Debug\Opengl_test.exe

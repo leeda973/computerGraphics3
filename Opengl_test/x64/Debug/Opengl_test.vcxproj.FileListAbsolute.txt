@@ -1,0 +1,4 @@
+C:\comg\Opengl_test\x64\Debug\freeglutd.dll
+C:\comg\Opengl_test\Opengl_test\x64\Debug\Opengl_t.FCDD3F25.Up2Date
+C:\comg\Opengl_proj2\x64\Debug\freeglutd.dll
+C:\comg\Opengl_proj2\Opengl_test\x64\Debug\Opengl_t.FCDD3F25.Up2Date
